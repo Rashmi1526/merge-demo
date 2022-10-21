@@ -1,4 +1,3 @@
 * Eat
 * Sleep
-* Gym
 * Repeat
